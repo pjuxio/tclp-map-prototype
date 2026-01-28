@@ -432,9 +432,37 @@ h1 {
         font-size: 1.5rem;
     }
 
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-bottom: 1rem;
+    }
+
+    .header-text {
+        text-align: left;
+    }
+
+    .main-content {
+        flex-direction: column;
+    }
+
     #map {
         height: 60vh;
         min-height: 400px;
+        width: 100%;
+    }
+
+    .info-panel {
+        width: 100%;
+        position: relative;
+        top: auto;
+        right: auto;
+        margin-top: 15px;
+    }
+
+    .legend-label {
+        margin-right: 12px;
     }
 
     .leaflet-popup-content {
