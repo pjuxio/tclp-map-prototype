@@ -748,7 +748,7 @@ function updateSummaryPanel() {
         </div>
         <div class="total-count">
             <strong>${communities.length}</strong> communities<br>
-            <span style="font-size: 0.85rem">${stateCount} states</span>
+            <strong>${stateCount}</strong> states
         </div>
         <p class="panel-hint">Click markers for details</p>
     `;

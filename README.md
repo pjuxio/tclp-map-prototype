@@ -30,6 +30,9 @@ tclp-maps/
 ├── index.html          # Main HTML structure
 ├── styles.css          # CSS styling and theme
 ├── script.js           # Application logic and community data
+├── server.js           # Express server for Node.js deployment
+├── package.json        # Node.js dependencies and scripts
+├── Procfile            # Heroku deployment configuration
 ├── data.txt            # Source data in text format
 ├── tclp-logo-500px.png # TCLP logo
 └── README.md           # This file
@@ -37,25 +40,39 @@ tclp-maps/
 
 ## Getting Started
 
-### Local Development
+### Local Development with Node.js
 
 1. **Clone or download** this repository
-2. **Start a local web server** (required for proper file loading):
+2. **Install dependencies**:
    ```bash
-   # Using Python 3
-   python3 -m http.server 8000
-   
-   # Or using Python 2
-   python -m SimpleHTTPServer 8000
-   
-   # Or using Node.js
-   npx http-server -p 8000
+   npm install
    ```
-3. **Open your browser** and navigate to `http://localhost:8000`
+3. **Start the server**:
+   ```bash
+   npm start
+   ```
+4. **Open your browser** and navigate to `http://localhost:3000`
 
-### Direct File Access
+### Alternative: Python Web Server
 
-Some browsers allow opening `index.html` directly, but a local server is recommended for best results.
+You can also run without Node.js using Python:
+```bash
+# Using Python 3
+python3 -m http.server 8000
+
+# Then visit http://localhost:8000
+```
+
+## Deployment
+
+### Deploy to GitHub Pages
+
+Since this is a static site with a Node.js server wrapper, you can deploy to GitHub Pages:
+
+1. Go to your repository settings
+2. Navigate to Pages section
+3. Select `main` branch as source
+4. Your site will be available at: `https://pjuxio.github.io/tclp-map-prototype/`
 
 ## Data Structure
 
@@ -91,6 +108,7 @@ To add or modify communities, edit the `communities` array in `script.js`:
 
 ## Technology Stack
 
+- **Node.js + Express** - Server for deployment to Heroku and other platforms
 - **Leaflet.js** v1.9.4 - Interactive mapping library
 - **OpenStreetMap** - Map tile provider via CartoDB
 - **Vanilla JavaScript** - No framework dependencies

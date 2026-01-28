@@ -1,0 +1,24 @@
+{
+  "name": "tclp-map-prototype",
+  "version": "1.0.0",
+  "description": "TCLP Community Priority Map - Interactive mapping of environmental justice communities",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "environmental-justice",
+    "mapping",
+    "communities",
+    "tclp"
+  ],
+  "author": "The Chisholm Legacy Project",
+  "license": "MIT"
+}
