@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCLP Community Priority Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="tclp-logo-500px.png" alt="TCLP Logo" class="header-logo">
+            <div class="header-text">
+                <h1>TCLP Community Priority Map</h1>
+            </div>
+            <button class="more-info-btn" id="moreInfoBtn">More Info</button>
+        </header>
+
+        <div class="main-content">
+            <div id="map"></div>
+            <aside class="info-panel" id="info-panel">
+                <h3>Loading...</h3>
+            </aside>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <h2>About TCLP Community Priority Map</h2>
+            <p>The Chisholm Legacy Project (TCLP) developed this prioritized list of communities as part of our ongoing effort to address systemic environmental injustice and climate vulnerability across the United States.</p>
+            <p>Each community was assessed and ranked based on a combination of environmental, infrastructure, economic, social, and governance-related indicators.</p>
+            <p><strong>Priority Tiers:</strong></p>
+            <ul>
+                <li><strong>Critical:</strong> Severe and immediate threats requiring urgent intervention</li>
+                <li><strong>High:</strong> Significant challenges with multiple compounding issues</li>
+                <li><strong>Moderate:</strong> Important concerns requiring sustained attention</li>
+                <li><strong>Low:</strong> Communities with manageable challenges</li>
+            </ul>
+            <p>These include, but are not limited to: contaminated water, flooding, inadequate drainage, food deserts, poor infrastructure, high utility costs, health impacts from pollution, and limited access to public services.</p>
+            <p>This prioritization informs our field organizing, resource allocation, and partnership strategies, ensuring that the most vulnerable communities receive timely and sustained support.</p>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

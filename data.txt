@@ -1,0 +1,259 @@
+Critical Priority States: (Urgency Score: 8-9) 
+Arkansas (AR): Region 4
+1.	Altheimer
+•	Environmental: Contaminated water (brown, frequent boil notices)
+•	Infrastructure: Wastewater backup, clogged drainage during storms
+•	Economic: Limited resources
+
+1
+
+2.	Cotton Plant
+•	Environmental: Severe flooding, contaminated water
+•	Infrastructure: Poor street drainage, water system issues
+•	Economic: Limited resources
+
+2
+
+3.	Dermott
+•	Infrastructure: Severe water/sewer system issues
+•	Economic: $1.7M loan debt to Arkansas Natural Resources Commission
+•	Governance: Issues with financial transparency
+
+3
+
+4.	Gould
+•	Environmental: Flooding, contaminated water
+•	Infrastructure: Poor street drainage
+•	Economic: High utility costs (Entergy Electric)
+
+5.	Madison
+•	Environmental: Flooding, pesticide exposure from farms
+•	Infrastructure: Poor drainage, contaminated water (grey-tinted)
+•	Economic: Limited resources
+•	Social: Concerns about governance and policing
+
+Texas (TX): Region 4
+1.	Ladonia
+•	Environmental: Water quality issues requiring boiling
+•	Economic: Residents rely on bottled water
+
+3.	New Waverly
+•	Environmental: Severe flooding risk in low-lying areas
+•	Economic: Food desert, limited retail options
+•	Social: Lack of senior citizen facility and recreation
+•	Infrastructure: No green spaces or public parks
+
+4.	Sandbranch
+•	Environmental: Water quality issues, air pollution, trash dumping
+•	Infrastructure: Lack of streetlights, poor road conditions
+•	Economic: Land loss/displacement
+•	Social: Health care access issues
+•	Technology: Lack of broadband
+
+Louisiana (LA): Region 4
+1.	Ironton
+•	Environmental: Severe flooding, health issues from coal facility
+•	Economic: Food desert
+•	Infrastructure: Displacement issues
+
+
+2.	Scotlandville
+•	Economic: Food desert
+•	Infrastructure: Lack of emergency services
+•	Social: High crime rates, heavy police presence
+
+
+Mississippi (MS): Region 4
+1.	Beaulah
+•	Environmental: Unclean water, frequent boil notices
+•	Infrastructure: Sewage backup, road repairs needed
+
+
+
+2.	Falcon
+•	Environmental: Dirty/unclean water, mosquito infestation
+•	Infrastructure: Roads need repair
+•	Social: Limited youth recreation
+
+
+
+3.	Renova
+•	Infrastructure: Major water issues (aging/damaged pipes, leaks, shutoffs)
+•	Economic: Lacks economic development
+•	Social: No playground, no grocery store
+
+
+High Priority States: (Urgency Score: 6-7)
+Alabama (AL): Region 3
+1.	Camp Hill
+•	Infrastructure: Roads need repair
+•	Economic: High utility costs
+•	Social: Need for community transit and activities
+
+
+
+2.	Shorter
+•	Infrastructure: Severe flooding and dangerous road conditions
+•	Safety: Need for caution lights and warning signs
+
+
+
+3.	Tuskegee
+•	Infrastructure: Storm damage to buildings, poor road conditions
+•	Social: Lack of recreational facilities
+•	Economic: Limited local amenities
+
+
+
+Illinois (IL): Region 8
+1.	Brooklyn
+•	Environmental: Environmental toxins
+•	Infrastructure: Limited riverfront access
+•	Economic: Weak relationship between village and residents
+•	Social: Senior housing needs, education concerns
+
+
+
+2.	Cairo
+•	Infrastructure: Severe plumbing and waste management issues
+•	Economic: Disinvestment in buildings, schools closed
+•	Social: Population decline
+
+
+
+3.	Venice
+•	Environmental: Pollution from trains
+•	Economic: Jobs/livelihood concerns
+
+
+
+Maryland (MD): Region 2
+1.	Federalsburg
+•	Infrastructure: Flood remediation needs, drainage issues
+•	Environmental: Creek rebuilding required
+•	Governance: Efficiency in city operations needed
+
+
+
+2.	Trappe
+•	Environmental: Wastewater pollution
+•	Infrastructure: General infrastructure issues
+
+
+
+3.	West Denton
+•	Environmental: River flooding
+•	Infrastructure: Mold issues, general infrastructure problems
+
+
+
+Michigan (MI): Region 8 
+1.	River Rouge
+•	Environmental: Health issues from community emissions
+•	Economic: Job scarcity after coal plant closures
+
+
+
+2.	Saint Louis
+•	Environmental: Contaminated waterways unsafe for swimming
+•	Infrastructure: Downtown revitalization needed
+•	Social: Violence and abandoned buildings issues
+•	Environmental: Changes affecting wildlife
+
+
+
+West Virginia (WV): Region 2
+1.	Gary
+•	Environmental: Flooding
+•	Economic: Food instability
+•	Social: Aging population, gentrification concerns
+
+
+
+2.	Rand
+•	Infrastructure: Flooding mitigation needs, sewage issues
+•	Environmental: Drainage infrastructure problems
+
+
+
+Moderate Priority States: Urgency Score: 5)
+Connecticut (CT): Region 1
+1.	Blue Hills
+•	Environmental: Flooding issues
+•	Economic: Insufficient flood compensation program
+
+2.	Poquonock Bridge
+•	Infrastructure: Houses need renovations for extreme weather
+•	Economic: Gentrification concerns
+
+Indiana (IN)- Region 8 
+
+1.	Lyles Station
+•	Environmental/Infrastructure: Community institutions (school, museum) vulnerable due to poor road conditions and lack of drainage support
+•	Economic: Concerns about gentrification
+•	Social: Descendants not having opportunity to buy/keep land
+•	Historical: Underground railroad connection, historic school preservation needs.
+
+2.	Princeton
+•	Environmental: Flooding and tornado vulnerability with history of fatalities and extensive damage 
+
+3.	Taylorsville
+•	Environmental: Flooding issues
+
+
+
+
+New Jersey (NJ): Region 1
+1.	Lawnside
+•	Environmental: Water quality issues
+
+
+
+2.	Woodlynne
+•	Environmental: Flooding issues
+
+
+
+New York (NY): Region 1
+1.	Riverside
+•	Infrastructure: Lack of pedestrian safety infrastructure
+•	Social: Gentrification concerns
+
+
+
+2.	Sodus
+•	Environmental: Rising temperatures
+•	Economic: Limited housing, economic development
+•	Social: Limited food access, lack of youth programs
+
+
+
+Oklahoma (OK): Region 4
+1.	Spencer
+•	Environmental: Poor air quality
+•	Economic: Food desert
+•	Social: Low ranking school district
+•	Economic: Lack of economic development/jobs for black people
+
+
+
+Low Priority States: (Urgency Score: 4)
+Wisconsin (WI): Region 8
+1.	Beloit
+•	Environmental: Pollution of quarry filled with water, flooding
+•	Infrastructure: Upkeep of national water trail
+•	Social: Cemetery maintenance needs
+
+South Carolina (SC) Region 3
+
+1.	Atlantic Beach
+•	Environmental: Development pressure threatens historic preservation
+•	Economic: Need to preserve tourism
+•	Social: Historical settlement preservation needs
+
+2.	Daufuskie Island
+•	Environmental/Economic: Challenges with outside developers and their projects
+•	Social: Historical preservation needs
+
+3.	Lincolnville
+•	Infrastructure: Concerns about infrastructure capacity handling development/increased traffic
